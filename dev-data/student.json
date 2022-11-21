@@ -1,0 +1,42 @@
+[
+  {
+    "name": "nesma mostafa",
+    "age": 77,
+    "ide": 1
+  },
+  {
+    "name": "nora mostafa",
+    "age": 32,
+    "ide": 12
+  },
+  {
+    "name": "alaa mostafa",
+    "age": 12,
+    "ide": 13
+  },
+  {
+    "name": "nehal",
+    "age": 43,
+    "ide": 14
+  },
+  {
+    "name": "ahmed",
+    "age": 32,
+    "ide": 15
+  },
+  {
+    "name": "ali",
+    "age": 64,
+    "ide": 16
+  },
+  {
+    "name": "marawan",
+    "age": 22,
+    "ide": 17
+  },
+  {
+    "name": "fatma",
+    "age": 55,
+    "ide": 18
+  }
+]
