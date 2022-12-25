@@ -26,5 +26,4 @@ router
     .patch(studentController.patchStudent)
     .delete(authController.protect,authController.restrictTo('admin'), studentController.deleteStudent); 
 
-
 module.exports = router;
